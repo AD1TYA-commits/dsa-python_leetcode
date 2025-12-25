@@ -1,1 +1,7 @@
 solutions for leetcode (python)
+.
+.
+.
+.
+.
+
