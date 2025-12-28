@@ -12,7 +12,6 @@ The goal is **deep understanding**, not memorization — focusing on **why** an 
 - Master **core DSA patterns**
 - Write **clean, efficient Python code**
 - Understand **time & space complexity**
-- Prepare for **technical interviews** and **FAANG-style questions**
 
 ---
 
